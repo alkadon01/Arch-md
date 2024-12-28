@@ -8,9 +8,9 @@ const chalk = require("chalk")
 const fs = require("fs")
 
 //======= Change settings =======\\
-global.owner = ["2347036214381"] 
+global.owner = ["2348144751195"] 
 global.botname = ["Arch Md"]
-global.simbol = "♘"
+global.simbol = "✨️"
 global.typeMenu = 'v5' //don't change 
 global.anticall = false // set true to turn anticall always on
 global.xprefix = '.' // your desired prefix
@@ -30,7 +30,7 @@ global.msg = {
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature could be used by bot only',
     wait: 'processing...',
-    linkm: 'Where is the link?',
+    linkm: 'Where is the link alkadon?',
     ban: 'Sorry you have been banned 🚶from using command contact owner to unban ❌'
     }
 //==========================
